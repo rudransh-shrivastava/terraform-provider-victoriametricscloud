@@ -4,7 +4,7 @@ go 1.25.3
 
 require (
 	github.com/VictoriaMetrics/victoriametrics-cloud-api-go v0.0.4
-	github.com/hashicorp/terraform-plugin-framework v1.16.1
+	github.com/hashicorp/terraform-plugin-framework v1.17.0
 	github.com/hashicorp/terraform-plugin-log v0.10.0
 )
 
