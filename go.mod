@@ -1,6 +1,6 @@
 module github.com/VictoriaMetrics/terraform-provider-victoriametricscloud
 
-go 1.25.3
+go 1.26
 
 require (
 	github.com/VictoriaMetrics/victoriametrics-cloud-api-go v0.0.4
